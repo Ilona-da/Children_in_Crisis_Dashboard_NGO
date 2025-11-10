@@ -1,3 +1,6 @@
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-0052CC?style=flat&logo=tableau)
+
 # Children Waiting for a Home
 
 ## About the Project
