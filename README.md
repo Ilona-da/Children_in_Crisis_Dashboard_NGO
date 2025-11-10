@@ -27,8 +27,10 @@ The project received **special recognition** as one of the standout works in the
 
 👉 [Click here to open the Tableau dashboard](https://public.tableau.com/app/profile/ilona.libront/viz/newdata_17343054191770/Dashboard)
 
+![Static dashboard preview:](preview/dashboard_gajusz.png)
+
 ### Personal Note
 
-When I joined this initiative, I had just started learning Power BI and had barely used Tableau before. But the topic touched me deeply, and I knew I wanted to take part, no matter what.
+When I joined this initiative, I had just started learning Power BI and had never used Tableau before. But the topic touched me deeply, and I knew I wanted to take part, no matter what.
 
-Just a few days before the deadline, I realized Tableau would be a better fit for sharing the dashboard publicly. So I changed course completely, learned the basics on the fly, and rebuilt the entire thing from scratch. It was a bit stressful, but this topic was just too important to give up on.
+Initially, I did most of the work in Power BI. But just two days before the deadline, I realized that Tableau would be a better fit for sharing the dashboard publicly. I quickly learned the basics on the fly and rebuilt the entire dashboard from scratch. It was challenging, but the topic felt too important to give up on.
